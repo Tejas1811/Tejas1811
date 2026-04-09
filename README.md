@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tejas1811
 - 👀 I’m interested in healthcare research..
-- 🌱 I’m currently learning organ on chips, wearable sensors and Drug delivery and stem cell technology
+- 🌱 I’m currently learning organ on chips, wearable sensors, Drug delivery and stem cell technology
 - 💞️ I’m looking to collaborate on translational reseach in healthcare technologies
 - 📫 bsteja953@gmail.com
 
